@@ -13,5 +13,4 @@ namespace testeef.Data
         public DbSet<Category> Categories{get;set;}
 
     }
-
 }

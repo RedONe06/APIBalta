@@ -17,7 +17,6 @@ namespace testeef.Controllers
         public async Task<ActionResult<List<Product>>> Get([FromServices] DataContext context)
         {
             var products = await context.Products
-            .Include(x => x.Category)
             .ToListAsync();
             return products;
         }

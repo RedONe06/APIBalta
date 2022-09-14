@@ -24,6 +24,6 @@ namespace testeef.Models
         public int CategoryId { get; set; }
         
         [NotMapped]
-        public Category Category { get; set; }
+        public Category? Category { get; set; }
     }
 }
