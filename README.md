@@ -1,2 +1,2 @@
-# APIBalta
-Criando uma API com ASP.NET Core 3 e EF Core 3 em menos de 15 minutos | por André Baltieri #baltaio
+![apiasp](https://user-images.githubusercontent.com/98191980/190150408-35a3dcc0-bf53-429d-9545-a2cfd8d65744.png)
+<img src="https://img.shields.io/static/v1?label=by&message=Balta.io&color=purple&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=Tech&message=.NET 6.0&color=DDA0DD&style=for-the-badge&logo=.NET"> <img src="https://img.shields.io/static/v1?label=Tech&message=C%23&color=DDA0DD&style=for-the-badge&logo=csharp"> <img src="https://img.shields.io/static/v1?label=Tech&message=Postman&color=DDA0DD&style=for-the-badge&logo=postman">
